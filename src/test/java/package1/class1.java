@@ -12,5 +12,6 @@ public class class1 {
         System.out.println("Its been Cloned from another Machine");
         System.out.println("Last attempt with RA");
         System.out.println("Last attempt with RwsfsdfsdfsdfsfsdfsdfsdfdsfA");
+        System.out.println("New Version from Different branch!");
     }
 }
