@@ -13,5 +13,7 @@ public class class1 {
         System.out.println("Last attempt with RA");
         System.out.println("Last attempt with RwsfsdfsdfsdfsfsdfsdfsdfdsfA");
         System.out.println("New Version from Different branch!");
+
+        System.out.println("I am the newest project from another user");
     }
 }
