@@ -8,5 +8,6 @@ public class class1 {
         System.out.println("Class 1");
         System.out.println("Its been modified in Branch1");
         System.out.println("Its been modified in Branch2");
+        System.out.println("Its been modified in Branch3");
     }
 }
