@@ -9,5 +9,6 @@ public class class1 {
         System.out.println("Its been modified in Branch1");
         System.out.println("Its been modified in Branch2");
         System.out.println("Its been modified in Branch3");
+        System.out.println("Its been Cloned from another Machine");
     }
 }
